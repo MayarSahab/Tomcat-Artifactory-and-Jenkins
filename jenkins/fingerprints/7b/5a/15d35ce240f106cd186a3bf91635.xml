@@ -1,0 +1,21 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-18 11:40:14.707 UTC</timestamp>
+  <original>
+    <name>Devops project/devopsarea:devopsarea</name>
+    <number>8</number>
+  </original>
+  <md5sum>7b5a15d35ce240f106cd186a3bf91635</md5sum>
+  <fileName>devopsarea:devopsarea:pom.xml</fileName>
+  <usages>
+    <entry>
+      <string>Devops project/devopsarea:devopsarea</string>
+      <ranges>8-12</ranges>
+    </entry>
+    <entry>
+      <string>Devops project</string>
+      <ranges>8-12</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

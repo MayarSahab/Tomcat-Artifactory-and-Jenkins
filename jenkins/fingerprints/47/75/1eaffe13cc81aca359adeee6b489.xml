@@ -1,0 +1,17 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2019-05-18 11:40:14.988 UTC</timestamp>
+  <md5sum>47751eaffe13cc81aca359adeee6b489</md5sum>
+  <fileName>org.eclipse.jetty:jetty-http-9.4.15.v20190215.jar</fileName>
+  <usages>
+    <entry>
+      <string>Devops project/devopsarea:devopsarea</string>
+      <ranges>8-12</ranges>
+    </entry>
+    <entry>
+      <string>Devops project</string>
+      <ranges>8-12</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

@@ -1,0 +1,10 @@
+Started on May 18, 2019 1:38:50 PM
+Started by event from 140.82.115.65 ⇒ http://18.224.137.5:8080/github-webhook/ on Sat May 18 13:38:50 UTC 2019
+Using strategy: Default
+No credentials specified
+ > git --version # timeout=10
+ > git ls-remote -h http://github.com/MayarSahab/Java-testapp.git # timeout=10
+Found 1 remote heads on http://github.com/MayarSahab/Java-testapp.git
+[poll] Latest remote head revision on refs/heads/master is: 0d3458425fed5e416afd452da50473d7d97ab4a0
+Done. Took 0.22 sec
+Changes found
